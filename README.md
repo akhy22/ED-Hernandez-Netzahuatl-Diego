@@ -1,4 +1,4 @@
-# Estructuras de datos (2026-1)
+# Estructuras de datos
 Estructura del repositorio:
 
 ```

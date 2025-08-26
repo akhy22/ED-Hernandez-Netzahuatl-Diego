@@ -1,12 +1,14 @@
-Organización del repositorio
-Para la organización de su repositorio de Git deberá tener la siguiente jerarquía, se irá agregando más elementos a lo largo del curso
+# Estructuras de datos (2026-1)
+Estructura del repositorio:
 
-data_structure/
+```
+data_structure
 ├── code
-│	├── include
-│	├── main
-│	└── source
+│   ├── include
+│   ├── main
+│   └── source
 └── homework
-    ├── activities
-    └── programs
-        └── arrays
+    ├── actividades
+    └── programas
+        └── matrices y arreglos
+```
